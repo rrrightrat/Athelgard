@@ -19,6 +19,7 @@ public class Main {
         System.out.println(cyan + banner);
         System.out.println("  A   T   H   E   L   G   A   R   D" + reset);
         System.out.println("        " + AnsiE.BG_GREEN + "Version 2 Snapshot 2" + AnsiE.RESET);
+        
 
         int C;
         System.out.println(AnsiE.BOLD_RED + "[1] Start \n[Any] Quit" + AnsiE.RESET);
