@@ -32,6 +32,8 @@ public class Main {
             GameLogic.clearConsole();
 
             ActI.StartActII();
+            
+            ActI.StartActIII();
         } else if (C != 2) {
             GameLogic.clearConsole();
             System.out.println(AnsiE.BOLD_RED + "You Quit");

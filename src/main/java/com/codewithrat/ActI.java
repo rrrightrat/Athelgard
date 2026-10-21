@@ -153,5 +153,14 @@ public class ActI {
         System.out.println(" ");
         
         System.out.println(AnsiE.BOLD_GREEN+"You and Mike depart for the Fallen Tombs!"+AnsiE.RESET);
+        
+        GameLogic.anyToCont();
+        GameLogic.clearConsole();
+    }
+    public static void StartActIII(){
+        GameLogic.title("Act 3 - The Mountain of Zues");
+        
+        System.out.println(" ");
+        GameLogic.printD("console","Still in Development!");
     }
 } 
