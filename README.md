@@ -5,6 +5,12 @@
 
 **STILL IN DEVELOPMENT**
 
+## 🌟 Highlights
+
+- Lightweight 
+- Simple Storyline 
+- Text-based
+
 ## to run in terminal
 
 Copy and paste the commands in your terminal
